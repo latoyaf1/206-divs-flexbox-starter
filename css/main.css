@@ -151,6 +151,8 @@ main p {
     font-size: 1em;
     flex-direction: row;
     width: 30%;
+    margin: 10px;
+    line-height: 30px;
 }
 
 #div-1, #div-2 {
